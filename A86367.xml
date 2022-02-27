@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hinds elder brother, or the master thief discovered being a notable pithy relation of the life of Major Thomas Knowls his many exploits escapes, and witty robberies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86367</idno>
+            <idno type="STC">Wing H2064</idno>
+            <idno type="STC">Thomason E652_9</idno>
+            <idno type="STC">ESTC R205882</idno>
+            <idno type="EEBO-CITATION">99865119</idno>
+            <idno type="PROQUEST">99865119</idno>
+            <idno type="VID">166041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166041)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E652[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hinds elder brother, or the master thief discovered being a notable pithy relation of the life of Major Thomas Knowls his many exploits escapes, and witty robberies.</title>
+               </titleStmt>
+               <extent>[2], 10 [i.e. 12], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Clows,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>An. Dom. 1651 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 is misnumbered 10.</note>
+                  <note>Annotation on Thomason copy: The second "1" in the imprint is crossed out and date altered to 1652; "Jan. 30th."; "1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Knowles, Thomas, --  Major.</term>
+               <term>Thieves --  England --  Early works to 1800.</term>
+               <term>Criminal behavior --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166041:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <hi>HINDS ELDER BROTHER, OR The Maſter Thief DISCOVERED</hi> Being a notable pithy Relation of the Life of Major <hi>THOMAS KNOWLS</hi> his many Exploits Eſcapes, and witty Robberies.</p>
+            <p>
+               <add>Jan. 30<hi rend="sup">th</hi>.</add>
+            </p>
+            <figure>
+               <figure>
+                  <head>Hind.</head>
+               </figure>
+               <figure>
+                  <head>Knowls.</head>
+               </figure>
+            </figure>
+            <p>Imprinted at <hi>London</hi> by <hi>John Clows An. Dom.</hi> 1651. <add>1652</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166041:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:166041:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>Hinds Elder Brother, or the Maſter-Thief diſcovered, being a pithy re<g ref="char:EOLhyphen"/>lation of the life of Major Tho<g ref="char:EOLhyphen"/>mas Knowls, his many eſ<g ref="char:EOLhyphen"/>capes, cheats, and witty Robberies.</head>
+            <div type="part">
+               <head>Of his Birth and Education.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He greateſt certainty of the place of his Birth, is to moſt uncertain, he not being able to give any exact account by reaſon his Parents died ſo much in his minority, but left to the care of ſome friends in <hi>Lealand</hi> Pariſh in <hi>Lancaſhire,</hi> which care of theirs extended it ſelf to no<g ref="char:EOLhyphen"/>thing more then how to be rid of him, which he to their deſires effected in the age of fourteen coming here to <hi>London,</hi> where he had not been many dayes a
+<pb n="2" facs="tcp:166041:3"/>
+                  <!-- PDF PAGE 3 -->mendicant, but he is entertained by <hi>Punteus</hi> the Moun<g ref="char:EOLhyphen"/>tebank, who then was newly come into <hi>England.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of his ſerving the Mountebank</head>
+               <p>HE had not long been with the Mountebank (but a witty rogue) he was ſo dexterous grown in his profeſſion, that he added much to the Sale of his Maſters Antidotes, by his witty Jeſts, Boufooniſh behaviour, and nimble vaultings, ſo that he became chief man to <hi>Punteus,</hi> and who is the Gentleman now, but Mr. <hi>Johan a pudding.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of his curing an <g ref="char:V">Ʋ</g>ſurer of the Toothach.</head>
+               <p>A Rich Uſurer being much tormented with the Toothach and not willing to be at too much Charge in procuring his Eaſe, came to Mr. <hi>Punteus</hi> his Lodging, thinking to have his cure for little or nothing, (by reaſon that <hi>Punteus</hi> drew many poor mens teeth that were afflicted out of charity) and enquiring for the French Doctor of the Maid of the houſe, ſhe preſently goes up to the Chamber, where ſhe finds <hi>Knowls</hi> and his Comrade fitting themſelves with falſe Beards, and Antick apparrel for the next dayes ſhow, ſhe acquaints them, that there was an U<g ref="char:EOLhyphen"/>ſurer at the door to ſpeak with their Maſter, and as ſhe thought by the muffling of his Chops to have ſome
+<pb n="3" facs="tcp:166041:3"/>
+                  <!-- PDF PAGE 3 -->Remedy for his teeth, whereupon <hi>Knowls</hi> cryes out to his Comrade, a priſe, now off with this party colou<g ref="char:EOLhyphen"/>red Coat, Give me my Maſters Gown, faſten m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on that black Beard, ſtand bare, and keeping your coun<g ref="char:EOLhyphen"/>tenance call up the Uſurer, up comes the Patient re<g ref="char:EOLhyphen"/>lates his malady, and as a poor man invokes a remedy, which <hi>Knowls</hi> out ſuppoſed <hi>Punteus,</hi> ſayes he will apply his beſt skill for Gods ſake, and ſetting the U<g ref="char:EOLhyphen"/>ſurer down, views his tooth, and ſayes I ſhall do the cure, but you muſt have a little patience, for it is a ve<g ref="char:EOLhyphen"/>ry forked one; his man imployed his time ſo well, that whiles <hi>Knowls</hi> pulled out the tooth, he pulled out of his pocket a Cats skin Purſe with twenty nine pounds, two Rings, and a Watch. The Cure being effected, <hi>Knowls</hi> demands ſomething for his pains, the Uſurer replies, (the Maid being by) with an Oath that he had not one penny, nor the value about him of one farthing, nay ſayes <hi>Knowls,</hi> ſince you ſwear be<g ref="char:EOLhyphen"/>fore witneſſe, I am content, God ſpeed you well, and ſo departs my Uſurer, little thinking <hi>Knowls</hi> had been ſo well paid.</p>
+               <lg>
+                  <l>
+                     <hi>Knowls</hi> thought this Robbery was but juſt,</l>
+                  <l>To rob the man that no body would truſt,</l>
+                  <l>Who for to ſave a little of his Pelf,</l>
+                  <l>Before witneſſe, baſely forſwears himſelf,</l>
+                  <l>This was the cauſe that he ne're came</l>
+                  <l>Back unto <hi>Knowls,</hi> his mony loſt to claim,</l>
+                  <l>Being o'rcome with perjury and ſhame.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:166041:4"/>
+               <!-- PDF PAGE 4 -->
+               <head>How <hi>Knowls</hi> robbed the Scotch Com<g ref="char:EOLhyphen"/>miſsioners, when they lay at <hi>Somerſet</hi> Houſe.</head>
+               <p>
+                  <hi>KNowls</hi> having a great deſire to finger ſome of the Scoth Commiſſioners money, by reaſon he had heard they had received abundance, though for a little deſert, either in them or their Army. He plots many wayes, but none takes effect; at laſt he takes a ſhoul<g ref="char:EOLhyphen"/>der Trumpet, flings it under his Cloak, he being in black, very neat, more like a Scotch Laird then a Trumpeter, and away he marches to the Gate, where he finds ſeverall Trumpeters, Waits, and others at Puſh a Pike with the Porter, who valiantly defend<g ref="char:EOLhyphen"/>ed himſelf in the behalf of his Lairds Pouch, <hi>Knowls</hi> makes his approach, ſaying, how now honeſt Porter, What are theſe fellows, Fools or Fidlers? O my Saul are they, quoth the Porter, wad yeer gude wor<g ref="char:EOLhyphen"/>ſhip ſpeak wi my Lord, yes quoth <hi>Knowls,</hi> I have af<g ref="char:EOLhyphen"/>fairs of importance to comunicate to thy Lord; mary and yee een ſall ple<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe yeer gude worſhip to gang along wi me, ſo with that, in enters <hi>Knowls</hi> with the Porter, who goes and acquaints his Lord, the Lord <hi>Lowden,</hi> that there was a Gentleman to ſpeak with his Honor. <hi>Lowden</hi> comes into the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ining Room; where he finds <hi>Knowls</hi> attending: who addreſſes himſelf unto my Lord Commiſſioner, ſaying, my Lord, I am Ma<g ref="char:EOLhyphen"/>ſter Trumpeter to the Navy, under the Command of
+<pb n="5" facs="tcp:166041:4"/>
+                  <!-- PDF PAGE 4 -->Earl of <hi>Warwick</hi> and being ſent hither to furniſh the Fleet with Trumpets, I am charged by the Earl who lies now upon the <hi>Downs</hi> to ſalute your Honours, in troth Sir, replyes <hi>Lowden,</hi> I am een blyth to hear his Lordſhip is in gude health, calling to his Porter, ſaying, <hi>Saundy,</hi> gar <hi>Jeamy</hi> give this Gentleman forty Shil<g ref="char:EOLhyphen"/>lings, and with a Congee departs into his Chamber, the Servants being affrighted at the unwelcome Gueſt they had brought their Lord, ſome runs one way ſome another, leaving <hi>Knowls</hi> alone in the dining room, who in a moment diſmantles the cupboard of a large quan<g ref="char:EOLhyphen"/>tity of Plate being fled before the Porter or <hi>Jeamy</hi> could come with the forty ſhillings, who upon their finding the plate gone, cryed out to a wofull Tune O Black day, the falſe Lown has beguiled us aw, little wiſt I I quoth the porter, that his Worſhip was a pi<g ref="char:EOLhyphen"/>per: the Dell blaw's Baggs, mi Livings gene, but the tumults continued ſo long amongſt the Bullies, that <hi>Knowls</hi> had convenient time to eſcape.</p>
+               <lg>
+                  <l>Thus witty <hi>Knowls</hi> did borrow plate,</l>
+                  <l>O thoſe which cozen'd King and State.</l>
+                  <l>The one they ſold, the others thought to cheat,</l>
+                  <l>But now repent, ſince they are ſound<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y beat,</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:166041:5"/>
+               <!-- PDF PAGE 5 -->
+               <head>How Knowls left his Majer the Moun<g ref="char:EOLhyphen"/>tebank, turned Cutter and robbed Hind.</head>
+               <p>
+                  <hi>KNowls</hi> having a deſire no longer to be a ſervant, if he could deviſe any how to live a Maſter, and having gained a pretty ſumme under the Mountebank, he takes his leave of him, and reſolves to live a bro<g ref="char:EOLhyphen"/>ther of the Blade, huyes him a pretty highway Nag, a good Sword and Caſe of private Piſtolls (away goes my Friend to the Road) and now Gentlemen beware your Portmantles) many exploits our Moun<g ref="char:EOLhyphen"/>ſieur Abbot playes, for ſo he is called now) in <hi>Lin<g ref="char:EOLhyphen"/>coln</hi> ſhire <hi>Notingham</hi> and other places, and one night coming into the Lion Inne at <hi>Worſhip,</hi> eight miles from <hi>Mansfield,</hi> the Hoſtler takes his Horſe, he paſſes under the notion of a Graſier, and is by the ſaid Hoſtler ſet to <hi>Hind</hi> (for one that was poſſeſt with a good round ſumme) that night they ſupped together, being igno<g ref="char:EOLhyphen"/>rant one of the others Calling, the next day in <hi>Wel<g ref="char:EOLhyphen"/>beck</hi> Foreſt <hi>Hind</hi> overtakes our Mounſieur, claps a plſtol to his breaſt, wiſhing him immediately to deli<g ref="char:EOLhyphen"/>ver his purſe, or life and purſe together, <hi>Knowls</hi> ſeing death at the Collar of his Doublet, wiſely replyes, in faith Sir, I have a ſumme of money about me, which I do not value near comparable with my life, there<g ref="char:EOLhyphen"/>fore here take it, delivering to <hi>Hind</hi> a leather Bag, with fourſcore and od pounds in it, and Sir, believe me,
+<pb n="7" facs="tcp:166041:5"/>
+                  <!-- PDF PAGE 5 -->Since you have done ſo gallantly, as to adventure a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> upon me I ſwear to you, I will never proſecute you, therefore, never ſhun me, whereſoever you ſee me, and riding on together, a little along the Foreſt, he ſayes, being in diſcourſe, I pray Sir tell me one t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, <hi>Hind</hi> replying, ſaid he would, then ſayes <hi>Knowls,</hi> pray you had you any thing in that piſtoll you clapt to my Breaſt, or did you it to affright me, nay ſayes <hi>Hind,</hi> God damne me, it is charged with a Brace of Bullets, and thereupon ſlaps off his piſtoll, which <hi>Knowls</hi> perceiving, claps one of his to <hi>Hinds</hi> throat, ſaying, now return back my money with wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t addition you can make of your own, or by <hi>Jove</hi> you die, ſo he diſmantled Mr. <hi>Hind</hi> of all his money riding away crying, farewell younger Brother.</p>
+               <q>
+                  <l>Thus Hind which knew the cutting Trade ſo well,</l>
+                  <l>Was robb'd by <hi>Knowls</hi> who did him farre excell</l>
+                  <l>In th' highway arts, and in the padding skill,</l>
+                  <l>For <hi>Hind</hi>'s in <hi>Newgate,</hi> and <hi>Knowls</hi> at freedome ſtill</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>How <hi>Knowls</hi> being brought a Priſoner in the Habit of a Parſon to <hi>White Hall</hi> made his Eſcape.</head>
+               <p>
+                  <hi>KNowls</hi> being taken by one of the Thieftakers a<g ref="char:EOLhyphen"/>bout this Town, was brought to <hi>White Hall,</hi> and
+<pb n="7" facs="tcp:166041:6"/>
+                  <!-- PDF PAGE 6 -->there upon the Guard ſecured that night, the next day ſecured in a Chamber, having two Souldiers Sentries upon him, ſhortly af<g ref="char:EOLhyphen"/>ter being examined, he was asked what made him aſſume that Habit, being he could nei<g ref="char:EOLhyphen"/>ther write nor read, he replyed the rather be<g ref="char:EOLhyphen"/>cauſe he thought no man would ſuſpect an illiterate man in ſuch a Coat, and after ſome queſtions he was remanded back to the ſaid Cuſtody, where after liberally giving all ſorts of Liquours to the two Souldiers his Guard, he ſeeing them in a merry mood, thus began to ſpeak, dear Comrades and fellow Souldi<g ref="char:EOLhyphen"/>ers, you may perceive, this is onely through malice, that I am here a Priſoner, Since I have never done any thing againſt the State, yet there is one thing vexeth me to the Soul, what is that Maiſter anſwered the Souldiers, marry quoth Knowls, I have fifty pounds in the hands of the man that keepeth the Leg in the pallace yard, and I would willingly give ten pounds to a good fellow, that I had it here, one of the Souldiers replies, Sir I will fetch it you with a good will, nay nay,
+<pb n="8" facs="tcp:166041:6"/>
+                  <!-- PDF PAGE 6 -->ſayes Knowls, that cannot be, for he will not give it to any body but my ſelf, yet I can tell you what we may do, one of you put on my Habit here, and I will put on your Red Coat and Bandileers, the other take his Muſquet, and go along with me, and ſo in leſſe then half an hour, we will be back with the money, and I will give you five pounds a<g ref="char:EOLhyphen"/>piece for your pains, the matter being thus carryed, you can no wayes be found in blame, this conceit takes, away marches Knowls and one of the Souldiers, the other lies down up<g ref="char:EOLhyphen"/>on the bed in his Parſons weed, they march to Weſtminſter, come into the Legge, call for a pot of Ale, which is brought them, Knowls he demands for the Maſter of the Houſe, who comes immediately, he takes him aſide, whiſpers him in the Ear, thruſting half a Crown in his hand, ſaying, Sir, I would not that my Comrade ſhould know I have any money, but whilſt we drink, pay your ſelf out of this, and ſaying, ſhall it be ſo carryed, the man of the Houſe not ſuſpecting any thing, replyies aloud, you ſhall
+<pb n="10" facs="tcp:166041:7"/>
+                  <!-- PDF PAGE 7 -->you ſhall Sir, and ſo departs the Roome, Knowls turns to the Souldier, come Brother, let us drink one half dozen, and by that time the money will be told out, further ſaying, truly this man of the Houſe is a very honeſt man, now by that time they had drunk four or five pots, the Souldier begins to ask why the Maſter of the Houſe came not his way, Knowls having the Pot of Ale in his hand, ſuddenly flings the pot violently in the ſoul<g ref="char:EOLhyphen"/>diers face, knocking him down, crying a<g ref="char:EOLhyphen"/>loud, Villain doſt thou ſay, my Captain is a Coward, I would have thee know, I have ſo much of a ſouldier in me, that Ile die be<g ref="char:EOLhyphen"/>fore I hear my Officer abuſed, but Ile have the Corporall to fetch thee to the Guard with a Pox, and ſo running out of the houſe, before the ſouldier recovered Knowls had croſſed the water, and ſo clearly eſcaped.</p>
+               <lg>
+                  <l>Let <hi>Knowls</hi> his ſlipperie trick example be</l>
+                  <l>To all thoſe Guards which love a fee,</l>
+                  <l>Leaſt he may chance to have the ſame reward</l>
+                  <l>For coveting Coyn as had this fooliſh Guard,</l>
+                  <l>The one in Parſons weeds the Gantlet run,</l>
+                  <l>The other being Caſhier'd was quite undone.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:166041:7"/>
+               <!-- PDF PAGE 7 -->
+               <head>How <hi>Knowls</hi> being Captain of the Pio<g ref="char:EOLhyphen"/>ners to the Scotch Army eſcaped from <hi>VVorceſter.</hi>
+               </head>
+               <p>KNowls having Command of the Pio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers at Worceſter, upon their being rout<g ref="char:EOLhyphen"/>ed he calls to him one of the C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>untrey-men which he had preſt for a pioner not many days before, and one whom he had noted to bee a monſtrous ſilly fellow, ſaying, alas for you poor hearts, for you will have no quarter, the ene<g ref="char:EOLhyphen"/>my ſaves none but officers, upon which words the fellow was ready to ſink, but Knowls ſayes come courage, give me thy Pickax and Caſſock, and here take my Sword, Buff Coat, and Hat, and I will run for it, for I am lighter of foot then thou art, whereupon they change and by that means Knowls eſcapes the Parli<g ref="char:EOLhyphen"/>aments forces entring the Town, ſome Troops enters the houſe where this Country man was who preſently cryes out, ſave my life Gentle<g ref="char:EOLhyphen"/>men, for I am Major Knowls, Captain of the Pioners, I quoth the ſoldier I will give you quarter, but I will pay your skin for a tumbling rogue, and knockt him ſoundly, ſtript him na<g ref="char:EOLhyphen"/>ked, and turned him amongſt the reſt of the priſoners.</p>
+               <lg>
+                  <pb n="10" facs="tcp:166041:8"/>
+                  <!-- PDF PAGE 8 -->
+                  <l>THus Reader, in this ſmall Epitome,</l>
+                  <l>Some Acts of famous Kmowls I have ſhow'd thee,</l>
+                  <l>Which if conſidered rightly thou wilt find,</l>
+                  <l>In witty pranks he far exceeds our <hi>Hind:</hi>
+                  </l>
+                  <l>And as from murder he was alwayes free,</l>
+                  <l>So ſtands he clear from all baſe Treachery</l>
+                  <l>Towards any of the Pad or cutting Trade,</l>
+                  <l>As being now the onely knight o'th' Blade;</l>
+                  <l>Of many a Gang he is the ſole ſurviver,</l>
+                  <l>So of many a feat he hath been the main contriver;</l>
+                  <l>Then let <hi>Hind</hi> and <hi>Guzman</hi> both ſubmit</l>
+                  <l>To active <hi>Knowls</hi> for valour ſhifts and wit.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
